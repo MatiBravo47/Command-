@@ -69,8 +69,3 @@ Este patrón permite:
 - Paradigma: **Programación Orientada a Objetos**
 
 ---
-
-## 📚 Uso educativo
-
-Este proyecto fue desarrollado con fines **educativos**, como ejemplo práctico del patrón Command aplicado a un caso real y fácil de comprender.
-
